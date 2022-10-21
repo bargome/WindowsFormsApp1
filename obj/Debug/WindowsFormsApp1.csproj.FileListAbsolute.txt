@@ -10,3 +10,15 @@ C:\Users\bargy\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\bargy\source\repos\WindowsFormsApp1\bin\Debug\Database1.mdf
 C:\Users\bargy\source\repos\WindowsFormsApp1\bin\Debug\Database1_log.ldf
 C:\Users\bargy\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\20-23224\Documents\Pp\WindowsFormsApp1\bin\Debug\Database1.mdf
+C:\Users\20-23224\Documents\Pp\WindowsFormsApp1\bin\Debug\Database1_log.ldf
+C:\Users\20-23224\Documents\Pp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\20-23224\Documents\Pp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\20-23224\Documents\Pp\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\20-23224\Documents\Pp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\20-23224\Documents\Pp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\20-23224\Documents\Pp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\20-23224\Documents\Pp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\20-23224\Documents\Pp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\20-23224\Documents\Pp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\20-23224\Documents\Pp\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

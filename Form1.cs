@@ -21,7 +21,7 @@ namespace WindowsFormsApp1
         public Form1()
         {
             InitializeComponent();
-            connection.ConnectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\bargy\\Аптека.mdf;Integrated Security=True;Connect Timeout=30";
+            connection.ConnectionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\20-23224\\Documents\\Pp\\WindowsFormsApp1\\bin\\Debug\\Database1.mdf;Integrated Security=True;Connect Timeout=30";
         }
 
         private void Form1_Load(object sender, EventArgs e)
