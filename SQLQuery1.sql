@@ -1,5 +1,1 @@
-﻿UPDATE TABLE Pharmacy
-(
-    Id int NOT NULL,
-    Medicament NVARCHAR(20),
-)
+﻿INSERT INTO Pharmacy (Medicament) VALUES ('Sirop');

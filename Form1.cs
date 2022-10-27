@@ -34,7 +34,8 @@ namespace WindowsFormsApp1
             
             for (int i = 0; i < ds.Tables[0].Rows.Count; i++)
             {
-                comboBox1.Items.Add(ds.Tables[0].Rows[i][0].ToString());
+                comboBox1.Items.Add(ds.Tables[0].Rows[i][1].ToString());
+                textBox2.Text = ds.Tables[0].Rows[i][1].ToString();
 
             }
             connection.Close();
@@ -62,7 +63,7 @@ namespace WindowsFormsApp1
             comboBox1.Items.Clear();
             for (int i = 0; i < ds.Tables[0].Rows.Count; i++)
             {
-                comboBox1.Items.Add(ds.Tables[0].Rows[i][0].ToString());
+                comboBox1.Items.Add(ds.Tables[0].Rows[i][1].ToString());
             }
             connection.Close();
         }
